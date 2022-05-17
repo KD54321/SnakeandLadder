@@ -1,8 +1,4 @@
 
-/*Assignment 0
- * Part 2
-  Written By Kevin Duong (40209877) and Paul Touma (40210678)
-*/
 import java.util.Scanner;
 
 public class PlayLadderAndSnake {
