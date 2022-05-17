@@ -1,7 +1,3 @@
-/*Assignment 0
- * Part 1
-  Written By Kevin Duong (40209877) and Paul Touma  (40210678)
-*/
 
 import java.util.Arrays;
 import java.util.ArrayList;
@@ -11,7 +7,7 @@ import java.util.Comparator;
 /**
  * Represents a Ladder And Snake game
  * 
- * @author Kevin Duong (40209877) and Paul Touma (40210678)
+
  * @version 1.0
  */
 public class LadderAndSnake {
